@@ -4,6 +4,8 @@
 
 **A fast-paced arcade shooting game with animated targets and dynamic difficulty.**
 
+![MyHunter start screen](docs/screenshots/start-screen.png)
+
 </div>
 
 ---
